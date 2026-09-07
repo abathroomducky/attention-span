@@ -1,0 +1,13 @@
+img {
+    width: 400px;
+}
+ body {
+    text-align: center;
+    font-family: 'Tahoma';
+    background: azure;
+    color: red; 
+ }
+
+ body {
+    border: 500px solid red;
+ }
