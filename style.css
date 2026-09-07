@@ -6,8 +6,10 @@ img {
     font-family: 'Tahoma';
     background: azure;
     color: red; 
+    border: 50px solid red;
  }
 
- body {
-    border: 500px solid red;
- }
+.video {
+   float: right;
+   margin-left: 20px;
+}
