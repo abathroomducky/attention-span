@@ -6,15 +6,28 @@ img {
     font-family: 'Tahoma';
     background: azure;
     color: rgb(76, 188, 177); 
-    border: 50px solid red;
+    border: 5px solid red;
  }
 
-.video {
-   float: right;
-   margin-left: 20px;
-   margin-right: auto;
-}
+
 
 .btn1 {
    background-color: aquamarine;
 }
+
+.surfers {
+   position:fixed;
+   top: 0;
+   right: 0;
+   width: 300px;
+   height: 400px;
+}
+
+.top_left_text {
+   margin-right: 420px
+}
+
+.middle_text {
+   margin-top: 250px;
+}
+
