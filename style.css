@@ -5,11 +5,16 @@ img {
     text-align: center;
     font-family: 'Tahoma';
     background: azure;
-    color: red; 
+    color: rgb(76, 188, 177); 
     border: 50px solid red;
  }
 
 .video {
    float: right;
    margin-left: 20px;
+   margin-right: auto;
+}
+
+.btn1 {
+   background-color: aquamarine;
 }
