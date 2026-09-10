@@ -14,13 +14,18 @@ img {
    background-color: aquamarine;
 }
 
-.surfers iframe{
+.surfers video{
    position:fixed;
    top: 0;
    right: 0;
    width: 20vw;
-   height: 30vw;
-  
+   height: auto;
+   z-index: 1; 
+}
+
+.subway {
+   width: 50vw;
+   height: auto;
 }
 
 .top_left_text {
@@ -28,6 +33,7 @@ img {
 }
 
 .middle_text {
-   margin-top: 35vw;
+   margin-top: 20vw;
 }
+
 
