@@ -18,13 +18,11 @@ img {
    position:fixed;
    top: 0;
    right: 0;
-   width: 20vw;
-   height: auto;
    z-index: 1; 
 }
 
 .subway {
-   width: 50vw;
+   width: 15vw;
    height: auto;
 }
 
